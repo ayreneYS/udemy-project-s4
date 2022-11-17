@@ -1,6 +1,8 @@
 # udemy-project-s4
 udemy project: Bankist App
 
+Live server: https://ayreneys.github.io/udemy-project-s4/
+
 Accounts log in:
 
 - Account 1  
